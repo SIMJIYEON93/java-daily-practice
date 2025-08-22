@@ -18,30 +18,28 @@ Daily Java practice repository — problem solving, unit testing, and clean code
   ## 예시 트리
   ```
   ├─ settings.gradle
-├─ build.gradle
-├─ log/
-│ ├─ 2025-08-21.md
-│ └─ 2025-08-22.md
-├─ kata/
-│ ├─ build.gradle
-│ └─ src/
-│ ├─ main/java/day/
-│ │ ├─ Day2025_08_21_ReverseString.java
-│ │ └─ Day2025_08_22_Palindrome.java
-│ └─ test/java/day/
-│ ├─ Day2025_08_21_ReverseStringTest.java
-│ └─ Day2025_08_22_PalindromeTest.java
-└─ boot-app/
-├─ build.gradle
-└─ src/
-├─ main/java/com/yourgroup/bootapp/
-│ ├─ BootAppApplication.java
-│ └─ daily/y2025/m08/d21/SandboxController.java
-└─ test/java/com/yourgroup/bootapp/
-└─ daily/y2025/m08/d21/SandboxControllerTest.java
+  ├─ build.gradle
+  ├─ log/
+  │ ├─ 2025-08-21.md
+  │ └─ 2025-08-22.md
+  ├─ kata/
+  │ ├─ build.gradle
+  │ └─ src/
+  │ ├─ main/java/day/
+  │ │ ├─ Day2025_08_21_ReverseString.java
+  │ │ └─ Day2025_08_22_Palindrome.java
+  │ └─ test/java/day/
+  │ ├─ Day2025_08_21_ReverseStringTest.java
+  │ └─ Day2025_08_22_PalindromeTest.java
+  └─ boot-app/
+  ├─ build.gradle
+  └─ src/
+  ├─ main/java/com/yourgroup/bootapp/
+  │ ├─ BootAppApplication.java
+  │ └─ daily/y2025/m08/d21/SandboxController.java
+  └─ test/java/com/yourgroup/bootapp/
+  └─ daily/y2025/m08/d21/SandboxControllerTest.java
   ```
-
----
 
 ## 사용 방법
 - 전체 테스트: `./gradlew test`
