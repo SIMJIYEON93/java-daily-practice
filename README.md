@@ -61,5 +61,4 @@ Daily Java practice repository — problem solving, unit testing, and clean code
 ## Notes
 - 가능한 작은 단위라도 **테스트 코드 포함**을 원칙으로 함  
 - 매주 일요일에 1주차 요약(Log + 링크) 정리  
-- 장기적으로 **알고리즘 → 자료구조 → Java 유틸/Stream → 백엔드 관련 미니 유틸** 순서로 확장 계획
 
