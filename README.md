@@ -1,5 +1,5 @@
 # Java Daily Practice
-Daily Java practice repository — problem solving, unit testing, and clean code exercises with continuous growth logs.
+Daily Java practice repository — problemsolving, unit testing, and clean code exercises with continuous growth logs.
 
 - **시작일**: 2025-08-21 ~ (ongoing)  
 - **목표**: 하루 1커밋, 작은 문제 풀이 및 리팩토링을 통해 Java 기본기와 TDD 습관화
