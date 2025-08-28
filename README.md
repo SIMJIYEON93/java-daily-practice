@@ -55,7 +55,6 @@ Daily Java practice repository — problemsolving, unit testing, and clean code 
 ## Weekly Summary
 - [Week 1 Summary](log/week-1.md)
 - [Week 2 Summary](log/week-2.md)
-
 ---
 
 ## Notes
